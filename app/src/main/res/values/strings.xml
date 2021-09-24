@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Prova1</string>
+    <string name="seguro_titulo">Seguro Veicular</string>
+    <string name="seguro_idade">18 a 24 anos</string>
+    <string name="seguro_percentual">5%</string>
+
+
+    <string name="seguro_faixaetaria1">18 a 24 anos</string>
+    <string name="seguro_faixaetaria2">25 a 30 anos</string>
+    <string name="seguro_faixaetaria3">31 a 40 anos</string>
+    <string name="seguro_faixaetaria4">Acima de 40 anos</string>
+
+    <string name="seguro_valorvaiculo">Digite o valor do seu veiculo</string>
+    <string name="seguro_hint_valor_veiculo">Valor do veiculo</string>
+
+    <string name="seguro_resultado">O valor do seu seguro será: R$ %.2f</string>
+    <string name="seguro_resultado_parcelas">O valor de cada parcela do seguro será: R$ %.2f</string>
+
+
+</resources>
